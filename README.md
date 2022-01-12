@@ -1,0 +1,3 @@
+- 👋 Cześć, jestem @DamiJJJ. Inaczej Damian :)
+- 🌱 Aktualnie uczę się Javy i Pythona
+- 📫 Kontakt: damipl1280@outlook.com

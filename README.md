@@ -1,3 +1,3 @@
-- 👋 Cześć, jestem @DamiJJJ. Inaczej Damian :)
-- 🌱 Aktualnie uczę się Javy i Pythona
-- 📫 Kontakt: damipl1280@outlook.com
+- 👋 Hi, I'm @DamiJJJ. Otherwise Damian :)
+- 🌱 Actually learning Java & Python
+- 📫 Contact: damian.mrozek@vp.pl

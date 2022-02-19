@@ -1,3 +1,3 @@
 - 👋 Hi, I'm @DamiJJJ. Otherwise Damian :)
-- 🌱 Actually learning Java & Python
+- 🌱 Actually learning HTML, CSS, JS & Python
 - 📫 Contact: damian.mrozek@vp.pl

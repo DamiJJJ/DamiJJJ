@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JS & Python**
 
-- 📫 Contact: **damian.mrozek@vp.pl**
+- 📫 Contact: **damipl1280@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

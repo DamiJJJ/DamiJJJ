@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @DamiJJJ, otherwise Damian!</h1>
-<h3 align="center">Welcome to my profile! Here you will find modest but my own repos :)</h3>
+<h3 align="center">Welcome to my profile! Here you will find some modest but my own repos :)</h3>
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=DamiJJJ.DamiJJJ)
 

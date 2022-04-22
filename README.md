@@ -5,4 +5,4 @@
 
 - 📫 Contact: **damijjj@outlook.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamiJJJ)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamiJJJ&layout=compact)](https://github.com/DamiJJJ/github-readme-stats)

@@ -4,7 +4,5 @@
 - 🌱 I’m currently learning **HTML, CSS, JS, Python & .NET**
 
 - 📫 Contact: **damijjj@outlook.com**
-<!-- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dami_pl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dami_pl" height="30" width="40" /></a> -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamiJJJ)](https://github.com/anuraghazra/github-readme-stats)

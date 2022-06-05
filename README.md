@@ -9,8 +9,8 @@ I get most satisfaction of creating things - that's why I'm learning to code! In
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently taking part in Cisco PCAP course;
-- 🚀 I’m currently learning Python, React & .NET;
+- 👨🏻‍💻 I’m currently learning for Agile & ITIL Foundation certificates;
+- 🚀 I’m currently learning Python, JS & .NET;
 - 📫 How to reach me: damijjj@outlook.com;
 
 📈 **My GitHub Stats:**

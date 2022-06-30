@@ -5,7 +5,7 @@
 
 I am a passionate beginner developer from Poland, currently starting my journey in programming.
 
-I get most satisfaction of creating things - that's why I'm learning to code! In future I really would like to start working as a programmer or automation tester!
+I get most satisfaction of creating things - that's why I'm learning to code! In future I really would like to start working as a developer!
 
 **Talking about Personal Stuffs:**
 

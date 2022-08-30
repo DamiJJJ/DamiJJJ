@@ -9,8 +9,8 @@ I get most satisfaction of creating things - that's why I'm learning to code! In
 
 **Talking about Personal Stuffs:**
 
-- ⭐ Recently, I have obtained ITIL and Agile Foundation certificates;
-- 🚀 I’m currently learning Python, Docker & SQL language;
+- ⭐ Recently I got a new job as an IT systems administrator;
+- 🚀 I’m currently learning Docker, Oracle SQL language & random admin things :P;
 - 📫 How to reach me: damijjj@outlook.com;
 
 📈 **My GitHub Stats:**

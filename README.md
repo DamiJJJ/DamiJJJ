@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @DamiJJJ, otherwise Damian!</h1>
 <h3 align="center">Welcome to my profile! Here you will find some modest but my own repos :)</h3>
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=DamiJJJ.DamiJJJ)
+### Glad to see you here! &nbsp;
 
 I am a passionate beginner developer from Poland, currently starting my journey in programming.
 
@@ -11,7 +11,7 @@ I get most satisfaction of creating things - that's why I'm learning to code! In
 
 - ⭐ Recently I got a new job as an IT systems administrator;
 - 🚀 I’m currently learning how to make games in Unity;
-- 📫 How to reach me: damijjj@outlook.com;
+- 📫 How to reach me: dami.mro@outlook.com;
 
 📈 **My GitHub Stats:**
 

@@ -11,7 +11,7 @@ I get most satisfaction of creating things - that's why I'm learning to code! In
 
 - ⭐ Recently I got a new job as an IT systems administrator;
 - 🚀 I’m currently learning how to make games in Unity;
-- 📫 How to reach me: dami.mro@outlook.com;
+- 📫 How to reach me: damijjj@outlook.com;
 
 📈 **My GitHub Stats:**
 

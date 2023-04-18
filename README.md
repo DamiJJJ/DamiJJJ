@@ -3,14 +3,14 @@
 
 ### Glad to see you here! &nbsp;
 
-I am a passionate beginner developer from Poland, currently starting my journey in programming.
+I am a passionate developer from Poland, currently working as an IT systems admin.
 
-I get most satisfaction of creating things - that's why I'm learning to code! In future I really would like to start working as a developer!
+I get most satisfaction of creating things - that's why I'm learning to code! In future I really would like to work as a developer!
 
 **Talking about Personal Stuffs:**
 
-- ⭐ Recently I got a new job as an IT systems administrator;
-- 🚀 I’m currently learning how to make games in Unity;
+- ⭐ Recently I made a few games in Unity;
+- 🚀 I’m currently working on my diploma work (Unity game);
 - 📫 How to reach me: damijjj@outlook.com;
 
 📈 **My GitHub Stats:**

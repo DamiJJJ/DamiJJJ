@@ -10,7 +10,7 @@ I get most satisfaction of creating things - that's why I'm learning to code! In
 **Talking about Personal Stuffs:**
 
 - ⭐ Recently I have passed English certification exam(B2+);
-- 🚀 I’m currently working on my diploma work (Unity game);
+- 🚀 I’m currently preparing to defense of my diploma thesis (Unity racing game);
 - 📫 How to reach me: damijjj@outlook.com;
 
 📈 **My GitHub Stats:**

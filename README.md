@@ -9,8 +9,8 @@ I get most satisfaction of creating things - that's why I'm learning to code! In
 
 **Talking about Personal Stuffs:**
 
-- ⭐ Recently I have passed English certification exam(B2+);
-- 🚀 I’m currently preparing to defense of my diploma thesis (Unity racing game);
+- ⭐ Recently I have become an Engineer in IT, Programming;
+- 🚀 I’m currently working out on some cool projects;
 - 📫 How to reach me: damijjj@outlook.com;
 
 📈 **My GitHub Stats:**

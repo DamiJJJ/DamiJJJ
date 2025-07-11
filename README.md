@@ -10,7 +10,7 @@ I get most satisfaction of creating things - that's why I'm learning to code! In
 **Talking about Personal Stuffs:**
 
 - ⭐ Recently I got a new job as a Billing Systems Administrator;
-- 🚀 I’m currently learning for my new job;
+- 🚀 I’m currently doing some cool stuff;
 - 📫 How to reach me: damijjj@outlook.com;
 
 📈 **My GitHub Stats:**

@@ -3,7 +3,7 @@
 
 ### Glad to see you here! &nbsp;
 
-I am a passionate developer from Poland, currently working as an IT systems admin.
+I am a passionate developer from Poland, currently working as an billing systems admin.
 
 I get most satisfaction of creating things - that's why I'm learning to code! In future I really would like to work as a developer!
 

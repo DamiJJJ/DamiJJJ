@@ -12,11 +12,3 @@ I get most satisfaction of creating things - that's why I'm learning to code!<br
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DamiJJJ&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DamiJJJ&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DamiJJJ&theme=github_dark)
-
-## 🔥 GitHub Streak:
-![GitHub Streak](https://streak-stats.demolab.com/?user=DamiJJJ&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=DamiJJJ&icon=0&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
